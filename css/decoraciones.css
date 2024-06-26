@@ -55,11 +55,11 @@ nav ul li a:hover {
     background-color: gray;
 }
 
-/* aside {
+aside {
     float: right;
     display: flex;
     background-color: rgba(191, 194, 193, 0.875) ;
-} */
+}
 
 footer{
     background-color: rgb(166, 166, 166);
